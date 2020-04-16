@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.braj.app</groupId>
-    <artifactId>video-converter-standalone</artifactId>
+    <artifactId>mkv-to-mp4-converter-converter-standalone</artifactId>
     <version>1.0</version>
 
-    <name>video-converter-standalone</name>
+    <name>mkv-to-mp4-converter</name>
     <description>Convert MKV to MP4</description>
 
     <properties>
